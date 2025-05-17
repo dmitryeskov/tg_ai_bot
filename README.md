@@ -27,7 +27,7 @@ python main.py
 
 # Результаты работы
 # Фото №1
-![bot result #1](./results/file1.PNG)
+![bot result #1](./results/file1.png)
 
 Ответ:
 
@@ -38,7 +38,7 @@ a sunset with a cloudy sky
 ```
 
 # Фото №2
-![bot result #2](./results/file2.PNG)
+![bot result #2](./results/file2.png)
 
 Ответ:
 
@@ -49,7 +49,7 @@ a number of people riding motorcycles on a dirt road
 ```
 
 # Фото №3
-![bot result #3](./results/file3.PNG)
+![bot result #3](./results/file3.png)
 
 Ответ:
 
